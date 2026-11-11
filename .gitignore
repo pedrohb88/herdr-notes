@@ -1,0 +1,3 @@
+node_modules/
+*.d.ts
+jsconfig.json
